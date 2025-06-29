@@ -4,3 +4,9 @@
 2025-06-29 22:50:26 INFO  T001_Login:13 - **** Starting T001 ****
 2025-06-29 22:50:26 INFO  T001_Login:15 - Entering Gmail id in to text filed
 2025-06-29 22:50:26 INFO  T001_Login:17 - clicking on Next CTA
+2025-06-29 23:09:01 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\skadla01\IdeaProjects\EmailWorkflow\master.xml
+
+2025-06-29 23:09:05 INFO  T001_Login:13 - **** Starting T001 ****
+2025-06-29 23:09:05 INFO  T001_Login:15 - Entering Gmail id in to text filed
+2025-06-29 23:09:05 INFO  T001_Login:17 - clicking on Next CTA

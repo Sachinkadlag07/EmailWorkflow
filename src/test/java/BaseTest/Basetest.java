@@ -135,7 +135,7 @@ public Logger logger;
         TakesScreenshot takesScreenshot = (TakesScreenshot) driver;
         File sourceFile = takesScreenshot.getScreenshotAs(OutputType.FILE);
 
-        String targetFilePath=System.getProperty("user.dir")+"\\Screenshots\\" + tname + "_" + timeStamp + ".png";
+        String targetFilePath=System.getProperty("user.dir")+"\\Screenshot\\" + tname + "_" + timeStamp + ".png";
         File targetFile=new File(targetFilePath);
 
         sourceFile.renameTo(targetFile);

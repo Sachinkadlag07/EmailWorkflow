@@ -16,7 +16,7 @@ public class T001_Login extends Basetest {
         sp.enterEmailId(p.getProperty("Emailid"));
         logger.info(("clicking on Next CTA"));
         sp.clickNext();
-        Thread.sleep(10000);
+        //Thread.sleep(10000);
         sp.enterPassword("miyamo123");
        // sp.clickNext();
 
